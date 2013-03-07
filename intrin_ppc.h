@@ -1,4 +1,3 @@
-
 /*
         Compatibility <intrin.h> header for GCC -- GCC equivalents of intrinsic
         Microsoft Visual C++ functions. Originally developed for the ReactOS
